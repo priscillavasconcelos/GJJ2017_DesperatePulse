@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<languages>
+	<EN>
+    <string name="PLAY_TXT">PLAY</string>
+		<string name="CREDITS_TXT">CREDITS</string>
+    <string name="QUIT_TXT">QUIT</string>
+    <string name="BACK_TXT">BACK</string>
+    <string name="TITLE_TXT">DESPERATE PULSE</string>
+	</EN>
+
+	<BR>
+    <string name="PLAY_TXT">JOGAR</string>
+		<string name="CREDITS_TXT">CREDITOS</string>
+    <string name="QUIT_TXT">SAIR</string>
+    <string name="BACK_TXT">VOLTAR</string>
+    <string name="TITLE_TXT">DESPERATE PULSE</string>
+  </BR>
+
+</languages>
